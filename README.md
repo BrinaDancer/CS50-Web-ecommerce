@@ -1,10 +1,11 @@
-Commerce
-Project 2 for CS50’s Web Programming with Python and JavaScript.
+<h1> Commerce <h1>
+  
+<h3>Project 2 for CS50’s Web Programming with Python and JavaScript.</h3>h3>
 
-Overview
+<h4>Overview</h4>
 An eBay-like e-commerce auction site design that will allow users to post auction listings, place bids on listings, comment on those listings, and add listings to a “watchlist.”
 
-Specification
+<h4>Specification</h4>
 This project fulfills the following requirements:
 
 Models: the application has at least three models in addition to the User model: one for auction listings, one for bids, and one for comments made on auction listings. Also, I add fields for each model as needed.

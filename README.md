@@ -36,3 +36,8 @@ Requires Python3 and the package installer for Python (pip) to run:
 ## Topics
 Built with [`Python`](https://www.python.org/downloads/), [`Django`](https://www.djangoproject.com/), and HTML/CSS.
 
+## Future Additions
+Add functionality for altering users when they have won an auction. 
+Add to over all front design to improve aestitics
+
+
